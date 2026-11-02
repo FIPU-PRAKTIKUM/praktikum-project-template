@@ -45,6 +45,7 @@ Svaki lab je pull request s labelom `lab-XX`, **do početka sljedećeg termina**
 ### 3. tjedan — Git i suradnja
 
 - **Na vježbama:** placeholder API zamjenjujemo pravom aplikacijom preko grane i pull requesta; code review i branch protection na `main`.
+- **Lekcija:** [`week-03-git-aplikacija.md`](week-03-git-aplikacija.md).
 - **Zadatak `lab-03`:** tvoja aplikacija (API + baza + Redis), `/health` koji provjerava obje veze, testovi, branch protection.
 
 ### 4. tjedan — Kontejneri I

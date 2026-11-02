@@ -25,6 +25,7 @@ Sve što trebaš znati o kolegiju, plus predlošci koje ispunjavaš tijekom seme
 | Tjedan | Lekcija |
 | --- | --- |
 | 2 | [Linux za ops: health check skripta](week-02-healthcheck.md) |
+| 3 | [Git i suradnja: prava aplikacija](week-03-git-aplikacija.md) |
 
 ## Predlošci koje ispunjavaš
 
