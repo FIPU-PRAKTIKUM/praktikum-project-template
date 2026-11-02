@@ -60,7 +60,7 @@ U 1. tjednu:
 
 **Jedan repozitorij za cijeli semestar.** Ne radi novi repo za svaki lab.
 
-Repozitorij [`praktikum-demo-app`](https://github.com/vanjaluk8/praktikum-demo-app) je **ogledna aplikacija s vježbi** — tu gledaš primjere i materijale, ali ovdje **ništa ne predaješ**.
+Repozitorij [`praktikum-demo-app`](https://github.com/FIPU-PRAKTIKUM/praktikum-demo-app) je **ogledna aplikacija s vježbi** — tu gledaš primjere i materijale, ali ovdje **ništa ne predaješ**.
 
 ---
 
